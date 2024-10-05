@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Buddy",
+    "breed": "Golden Retriever",
+    "age": 5,
+    "image": "https://placehold.jp/3d4070/ffffff/300x420.png?text=Golden%20Retriever"
+  },
+  {
+    "id": 2,
+    "name": "Daisy",
+    "breed": "Beagle",
+    "age": 3,
+    "image": "https://placehold.jp/ff7f50/ffffff/300x420.png?text=Beagle"
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "breed": "Poodle",
+    "age": 2,
+    "image": "https://placehold.jp/4682b4/ffffff/300x420.png?text=Poodle"
+  },
+  {
+    "id": 4,
+    "name": "Lucy",
+    "breed": "Labrador Retriever",
+    "age": 4,
+    "image": "https://placehold.jp/3d4070/ffffff/300x420.png?text=Labrador%20Retriever"
+  },
+  {
+    "id": 5,
+    "name": "Max",
+    "breed": "German Shepherd",
+    "age": 6,
+    "image": "https://placehold.jp/4682b4/ffffff/300x420.png?text=German%20Shepherd"
+  }
+]
