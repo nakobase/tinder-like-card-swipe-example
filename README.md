@@ -4,6 +4,8 @@ This is a simple example of a Tinder-like card swipe interface.
 
 It uses the [react-tinder-card](https://www.npmjs.com/package/react-tinder-card) package to create the swipeable cards.
 
+![tinder-like-card-swipe-example](https://github.com/user-attachments/assets/6abd3cc9-44e2-4edb-a81c-8ee71f905531)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -11,13 +13,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
 pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
